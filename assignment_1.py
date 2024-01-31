@@ -20,5 +20,6 @@ print('The data dimensions for DEM variable are', DEM.shape)
 plt.imshow(DEM) # initiate figure 
 cbar = plt.colorbar() # show colorbar
 cbar.set_label('Elevation (m asl)') # set colorbar label
-plt.show() #show figure
 plt.savefig('assignment_1.png', dpi=300) # save figure
+plt.show() #show figure
+
