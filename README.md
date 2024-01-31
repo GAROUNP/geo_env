@@ -1,1 +1,2 @@
-# This repo is create for academic purposes regarding Geo-Environmental Modeling & Analysis course
+# This repo is created for academic purposes regarding Geo-Environmental Modeling & Analysis course
+  (Updated from terminal)
